@@ -10,6 +10,6 @@ I enjoy building, creating, and fixing applications for easier client services. 
 
 I have worked with React.JS for front-end Javascirpt framework, ASP.NET Core 6.0 in C# for serverside development. I use MS SQL Server for backend database design and structuring. I have worked in an agile environment with daily stand-up, weekly sprints, and have conducted code-reviews with peers.
 
-I enjoy to learn thats the reason why I chose to become a Software Engineer, the opportunities to learn never stop.
+I enjoy to learn, thats the reason why I chose to become a Software Engineer, the opportunities to learn never stop.
 
 You can contact me on <a href='https://www.linkedin.com/in/carlos-barrera-alex/'><b>LinkedIn</b></a>
