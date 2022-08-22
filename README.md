@@ -6,7 +6,7 @@ Being told you cant do something or wont be able to succeed in a certain area is
 if you dedicate time and commitment to it. I am new to the tech field after serving 8 years in the United States Marine Corps where I learned that proving
 everyone who doubts my skills is where i rise up to the occasion and succeed where everyone else may see downfalls.
 
-I enjoy building, creating, and fixing applications for easier client services. Langueages that I am familiar with are: C#, JavaScript, and SQL.
+I enjoy building, creating, and fixing applications for easier client services. Languages that I am familiar with are: C#, JavaScript, and SQL.
 
 I have worked with React.JS for front-end Javascirpt framework, ASP.NET Core 6.0 in C# for serverside development. I use MS SQL Server for backend database design and structuring. I have worked in an agile environment with daily stand-up, weekly sprints, and have conducted code-reviews with peers.
 
